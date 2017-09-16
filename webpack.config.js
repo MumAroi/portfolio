@@ -10,7 +10,7 @@ module.exports = {
             sourceMapFilename: "build/bundle.map"
         // publicPath: '/'
     },
-     devtool:"#source-map",
+    devtool:"#source-map",
     devServer: {
         inline: false,
         contentBase: "./dist",
