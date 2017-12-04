@@ -8,7 +8,7 @@ class Covertop extends Component {
                 <div className="row">
                     <div className="col-xs-12 headline">
                     <h1 className="text-center">Hi, I'm Paramas</h1>
-                    <p className="lead text-center">A Web Developer in training.</p>
+                    <p className="lead text-center">A Web Developer.</p>
                     </div>
                 </div>
                 <div className="row">

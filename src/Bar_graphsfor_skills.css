@@ -197,7 +197,7 @@
   section.model-3 .graph:before {
     -ms-transform: rotate(120deg);
     -webkit-transform: rotate(120deg);
-    transform: rotate(130deg);
+    transform: rotate(100deg);
     border-color: #07374a;
   }
 
@@ -237,7 +237,7 @@
   section.model-7 .graph:before {
     -ms-transform: rotate(120deg);
     -webkit-transform: rotate(120deg);
-    transform: rotate(130deg);
+    transform: rotate(90deg);
     border-color: #07374a;
   }
 
@@ -257,7 +257,7 @@
   section.model-9 .graph:before {
     -ms-transform: rotate(120deg);
     -webkit-transform: rotate(120deg);
-    transform: rotate(110deg);
+    transform: rotate(90deg);
     border-color: #07374a;
   }
 
