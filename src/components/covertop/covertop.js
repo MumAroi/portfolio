@@ -6,7 +6,7 @@ const Covertop = () => {
             <div className="col-xs-12">
             <div className="row">
                 <div className="col-xs-12 headline">
-                <h1 className="text-center">Hi, I'm Paramas</h1>
+                <h1 className="text-center">Hi, I'm Paramest</h1>
                 <p className="lead text-center">A Web Developer.</p>
                 </div>
             </div>

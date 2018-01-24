@@ -9,7 +9,7 @@ const About =() => {
                 <div className="container">
                     <div className="col-md-12">
                         <img className="img-circle text-center profile-img" src={face} alt="imgProfile" />
-                        <h4 className="text-center about-name">Paramas Waewsuwan</h4>
+                        <h4 className="text-center about-name">Paramest Waewsuwan</h4>
                     </div>
                     <div className="col-md-12">
                         <div className="row">

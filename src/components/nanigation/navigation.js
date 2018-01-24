@@ -12,7 +12,7 @@ const Navigation = () => {
                     <span className="icon-bar"></span>
                     <span className="icon-bar"></span>
                 </button>
-                <a className="navbar-brand" href="">Paramas Waewsuwan</a>
+                <a className="navbar-brand" href="">Paramest Waewsuwan</a>
                 </div>
                 <div id="navbar" className="collapse navbar-collapse">
                 <ul className="nav navbar-nav navbar-right">
