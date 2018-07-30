@@ -36,20 +36,26 @@ const Technology = () => {
                         <section className="model-7">
                             <div className="graph">Git</div><span  className="tooltip">Git</span>
                         </section>
-                        <section className="model-8">
-                            <div className="graph">Android</div><span  className="tooltip">Android (learning in progress) </span>
-                        </section>
-                        <section className="model-9">
-                            <div className="graph">React</div><span  className="tooltip">React (learning in progress) </span>
-                        </section>
-                    </Fade>
-                    <Fade bottom>
                         <section className="model-10">
                             <div className="graph">Codeigniter</div><span  className="tooltip">codeigniter</span>
                         </section>
-                        <section className="model-11">
-                            <div className="graph">Laravel</div><span  className="tooltip">Laravel (learning in progress) </span>
+                        {/* <section className="model-8">
+                            <div className="graph">Android</div><span  className="tooltip">Android (learning in progress) </span>
+                        </section> */}
+                        <section className="model-9">
+                            <div className="graph">React</div><span  className="tooltip">React</span>
                         </section>
+                    </Fade>
+                    <Fade bottom>
+                        <section className="model-8">
+                            <div className="graph">Selenium</div><span  className="tooltip">Selenium (learning in progress) </span>
+                        </section>
+                        {/* <section className="model-10">
+                            <div className="graph">Codeigniter</div><span  className="tooltip">codeigniter</span>
+                        </section> */}
+                        {/* <section className="model-11">
+                            <div className="graph">Laravel</div><span  className="tooltip">Laravel (learning in progress) </span>
+                        </section> */}
                     </Fade>
                 </div>
             </div>

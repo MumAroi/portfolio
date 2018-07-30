@@ -25,7 +25,7 @@ const About =() => {
                                 <p className="text-right"><span className="font-weight-bold">Age : </span></p>
                             </div>
                             <div className="col-md-6">
-                                <p className="text-left"> 23 years old</p>
+                                <p className="text-left"> 24 years old</p>
                             </div>
                         </div>
                         <div className="row">

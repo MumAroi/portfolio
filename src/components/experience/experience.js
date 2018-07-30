@@ -31,10 +31,17 @@ const Experience = () => {
                         </div>
                     </li>
                     <li>
-                        <p className="timeline-date">2016 ( 1 Oct ) - PRESENT </p>
+                        <p className="timeline-date">2016 ( 1 Oct - 1 March )  </p>
                         <div className="timeline-content">
                         <h3>Jobbkk.com</h3>
                         <p>Web Programer (PHP, Codeigniter2) </p>
+                        </div>
+                    </li>
+                    <li>
+                        <p className="timeline-date">2018 ( 5 March ) - PRESENT </p>
+                        <div className="timeline-content">
+                        <h3>Nilecon (Thailand) Co., Ltd.</h3>
+                        <p>Web Develop (PHP, Nodejs, Reactjs, Docker, Angular2) </p>
                         </div>
                     </li>
                 </ul>
